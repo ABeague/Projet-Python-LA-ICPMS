@@ -4,10 +4,10 @@
 
 La LA-ICP MS est une méthode d'analyse permettant de visualiser la présence d'isotopes sur l'échantillon. La machine balaye l'échantillon ligne par ligne, ce qui permet de reconstruire une carte de présence d'un isotope dans l'échantillon. 
 
+![Spectre d'intensité en fonction du temps](https://github.com/ABeague/Projet-Python-LA-ICPMS/blob/main/Scatter_Intensity.png)
+
 ## Problématique 
 Les données obtenues consistent en une intensité du signal pour différents isotopes, qui n'est que qualitative. Le but est de réaliser un code permettant d'obtenir des données qualitatives, en l'occurrence la concentration des différents isotopes.
-
-![Spectre d'intensité en fonction du temps](https://github.com/ABeague/Projet-Python-LA-ICPMS/blob/main/Scatter_Intensity.png)
 
 ## Programme
 
