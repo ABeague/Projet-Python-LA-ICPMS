@@ -7,6 +7,8 @@ La LA-ICP MS est une méthode d'analyse permettant de visualiser la présence d'
 ## Problématique 
 Les données obtenues consistent en une intensité du signal pour différents isotopes, qui n'est que qualitative. Le but est de réaliser un code permettant d'obtenir des données qualitatives, en l'occurrence la concentration des différents isotopes.
 
+![Spectre d'intensité en fonction du temps](https://github.com/ABeague/Projet-Python-LA-ICPMS/blob/main/Scatter_Intensity.png)
+
 ## Programme
 
 Le programme fourni récupère les données du dossier *data* et réalise une calibration à partir de données.
