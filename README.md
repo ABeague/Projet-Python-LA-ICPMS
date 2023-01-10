@@ -20,5 +20,7 @@ Il réalise ensuite une image qualitative et une image quantitative de l'échant
 # Fichiers
 
 Ce dépôt contient les fichiers suivants :
+- *Procede_Theorique.ipynb* est une description plus détaillée du projet,
 - *Code Source.ipynb* contient la totalité du programme,
-- Le dossier data contient toutes les données nécessaires au fonctionnement du programme.
+- Le dossier data contient toutes les données nécessaires au fonctionnement du programme,
+- Les autres fichiers sont les images de ce *README*.
